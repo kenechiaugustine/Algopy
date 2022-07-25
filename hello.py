@@ -4,3 +4,8 @@ your_name = input("What is your name? ")
 # Print a greeting
 print("Hello, " + your_name + "!")
 # print('Hello', my_name)
+
+def my_function():
+  print("Hello from a function")
+
+my_function()
