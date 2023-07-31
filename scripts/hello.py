@@ -2,7 +2,7 @@
 print('Hello boss!!!')
 
 # Declaring variables
-my_name = "Kene"
+my_name = "Kenechukwu"
 print('Hello,' + my_name)
 
 # Receive a name from the user
