@@ -6,7 +6,7 @@ my_name = "Kene"
 print('Hello,' + my_name)
 
 # Receive a name from the user
-your_name = input("What is your name? ")
+your_name = input("What is your name here? ")
 print("Hello, " + your_name + "!")
 
 # Functions
