@@ -1,6 +1,5 @@
 from itertools import count, permutations
 
-
 def allpermutations(string_input):
     total_permutation = 0
     permList = permutations(string_input)
